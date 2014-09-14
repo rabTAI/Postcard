@@ -12,6 +12,8 @@
 		71E68E7B19C2BA710079CF95 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71E68E7919C2BA710079CF95 /* Main.storyboard */; };
 		71E68E7D19C2BA710079CF95 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71E68E7C19C2BA710079CF95 /* Images.xcassets */; };
 		71E68E8919C2BA710079CF95 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E68E8819C2BA710079CF95 /* PostcardTests.swift */; };
+		71E68E9319C2C6AC0079CF95 /* sagrada-familia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 71E68E9219C2C6AC0079CF95 /* sagrada-familia.jpg */; };
+		71E68E9519C2CD8A0079CF95 /* depositphotos_3661491-Russia---CIRCA-1979-A-stamp-Albert-Einstein.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 71E68E9419C2CD8A0079CF95 /* depositphotos_3661491-Russia---CIRCA-1979-A-stamp-Albert-Einstein.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +36,8 @@
 		71E68E8219C2BA710079CF95 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		71E68E8719C2BA710079CF95 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		71E68E8819C2BA710079CF95 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		71E68E9219C2C6AC0079CF95 /* sagrada-familia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "sagrada-familia.jpg"; sourceTree = "<group>"; };
+		71E68E9419C2CD8A0079CF95 /* depositphotos_3661491-Russia---CIRCA-1979-A-stamp-Albert-Einstein.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "depositphotos_3661491-Russia---CIRCA-1979-A-stamp-Albert-Einstein.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +91,8 @@
 		71E68E7319C2BA710079CF95 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				71E68E9419C2CD8A0079CF95 /* depositphotos_3661491-Russia---CIRCA-1979-A-stamp-Albert-Einstein.jpg */,
+				71E68E9219C2C6AC0079CF95 /* sagrada-familia.jpg */,
 				71E68E7419C2BA710079CF95 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -190,7 +196,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				71E68E7B19C2BA710079CF95 /* Main.storyboard in Resources */,
+				71E68E9519C2CD8A0079CF95 /* depositphotos_3661491-Russia---CIRCA-1979-A-stamp-Albert-Einstein.jpg in Resources */,
 				71E68E7D19C2BA710079CF95 /* Images.xcassets in Resources */,
+				71E68E9319C2C6AC0079CF95 /* sagrada-familia.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
